@@ -6,8 +6,18 @@
 
 <img width="878" alt="截圖 2023-03-07 下午5 55 49" src="https://user-images.githubusercontent.com/104251978/223387615-cde13a52-15c9-4c50-8e51-091924295c5a.png">
 
+- Hardhat :
+  - official tutorial : https://hardhat.org/tutorial
+  - possible practice (?) : https://medium.com/my-blockchain-development-daily-journey/完整的hardhat實踐教程-a9b005aa4c12
 
-OpenZeppeline : https://docs.openzeppelin.com/contracts/4.x/
+- React JS :
+  - tutorial + practice : https://developer.mozilla.org/zh-TW/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started
+
+- OpenZeppelin :
+  - setup official tutorial : https://docs.openzeppelin.com/contracts/4.x/
+  - interact with React official tutorial : https://docs.openzeppelin.com/network-js/0.2/building-a-dapp-from-scratch
+
+<br>**Might add some YouTube videos to the above learning lists**
 
 # Goal:
 1. 復刻一個不錯的project
