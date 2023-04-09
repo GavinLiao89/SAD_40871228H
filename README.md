@@ -11,6 +11,7 @@
   - possible practice (?) : https://medium.com/my-blockchain-development-daily-journey/完整的hardhat實踐教程-a9b005aa4c12
 
 - React JS :
+  - official document : https://create-react-app.dev/docs/getting-started/
   - tutorial + practice : https://developer.mozilla.org/zh-TW/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started
 
 - OpenZeppelin :
