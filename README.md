@@ -20,6 +20,16 @@
 
 <br>**Might add some YouTube videos to the above learning lists**
 
+## • HW2 https://youtu.be/wT8J9jZgw6g
+影片中最後疑問：
+- 不知是否因為版本不同，導致hardhat setup完的整個框架檔案內容(ex. .env.example , .config.js內容)跟數量都不同，不確定這樣效果會不會不一樣<br>
+
+影片補充 :
+- 若.sol裏面import hardhat出現紅字，可以參考[這裡](https://ethereum.stackexchange.com/questions/111568/hardhat-console-cant-be-resolved-in-vscode)
+- 最後畫面跑不出來的原因是因為我忘了先執行指令`$ npx hardhat node`，在此補上成果畫面
+><img width="500" alt="截圖 2023-04-10 上午12 22 34" src="https://user-images.githubusercontent.com/104251978/230785519-e886f5b7-44cf-4650-ae55-4d45a16a3c35.png">
+
+
 # Goal:
 1. 復刻一個不錯的project
 2. 學習別人的服務，自己再更進階創造出自己的想法
