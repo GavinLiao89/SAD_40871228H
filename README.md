@@ -22,7 +22,7 @@
 
 ## • HW2 https://youtu.be/wT8J9jZgw6g
 影片中最後疑問：
-- 不知是否因為版本不同，導致hardhat setup完的整個框架檔案內容(ex. .env.example , .config.js內容)跟數量都不同，不確定這樣效果會不會不一樣<br>
+- 不知是否因為版本不同，導致hardhat setup完的整個框架檔案內容(ex. .env.example , .config.js內容)跟數量與老師的示範影片不同，不確定這樣效果會不會不一樣<br>
 
 影片補充 :
 - 若.sol裏面import hardhat出現紅字，可以參考[這裡](https://ethereum.stackexchange.com/questions/111568/hardhat-console-cant-be-resolved-in-vscode)
