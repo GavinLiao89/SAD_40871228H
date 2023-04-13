@@ -28,6 +28,7 @@
 - 若.sol裏面import hardhat出現紅字，可以參考[這裡](https://ethereum.stackexchange.com/questions/111568/hardhat-console-cant-be-resolved-in-vscode)
 - 最後畫面跑不出來的原因是因為我忘了先執行指令`$ npx hardhat node`，在此補上成果畫面
 ><img width="500" alt="截圖 2023-04-10 上午12 22 34" src="https://user-images.githubusercontent.com/104251978/230785519-e886f5b7-44cf-4650-ae55-4d45a16a3c35.png">
+- 後續：可以從[ERC1155]下手研究(https://www.openzeppelin.com/contracts)
 
 
 # Goal:
