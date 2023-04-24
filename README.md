@@ -31,12 +31,11 @@
 - 後續：可以從[ERC1155](https://www.openzeppelin.com/contracts)下手研究
 
 ## • HW3
-- Part1 : 
-- Part2 :
+- Part1 : https://youtu.be/_UWJfxi32Ks
+- Part2 : https://youtu.be/JSqBXT7p8bs
 - Figma 專題架構圖：
-<img width="878" alt="截圖 2023-04-25 上午1 03 20" src="https://user-images.githubusercontent.com/104251978/234066332-b6dda9cc-02b9-48bb-a896-c005faea930b.png">
-- 影片中提到關於Metadata，可以使用[Pinata](https://pinata.cloud)
-- 
+<img width="878" alt="截圖 2023-04-25 上午1 03 20" src="https://user-images.githubusercontent.com/104251978/234066332-b6dda9cc-02b9-48bb-a896-c005faea930b.png"><br>
+- 影片中提到的關於metadata，可以使用[Pinata](https://pinata.cloud)
 
 
 # Goal:
