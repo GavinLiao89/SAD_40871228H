@@ -30,6 +30,13 @@
 ><img width="500" alt="截圖 2023-04-10 上午12 22 34" src="https://user-images.githubusercontent.com/104251978/230785519-e886f5b7-44cf-4650-ae55-4d45a16a3c35.png">
 - 後續：可以從[ERC1155](https://www.openzeppelin.com/contracts)下手研究
 
+## • HW3
+- Part1 : 
+- Part2 :
+- Figma 專題架構圖：
+<img width="878" alt="截圖 2023-04-25 上午1 03 20" src="https://user-images.githubusercontent.com/104251978/234066332-b6dda9cc-02b9-48bb-a896-c005faea930b.png">
+- 影片中提到關於Metadata，可以使用[Pinata](https://www.pinata.cloud)存放NFT image
+
 
 # Goal:
 1. 復刻一個不錯的project
