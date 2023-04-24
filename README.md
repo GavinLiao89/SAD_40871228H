@@ -35,7 +35,8 @@
 - Part2 :
 - Figma 專題架構圖：
 <img width="878" alt="截圖 2023-04-25 上午1 03 20" src="https://user-images.githubusercontent.com/104251978/234066332-b6dda9cc-02b9-48bb-a896-c005faea930b.png">
-- 影片中提到關於Metadata，可以使用[Pinata](https://www.pinata.cloud)存放NFT image
+- 影片中提到關於Metadata，可以使用[Pinata](https://pinata.cloud)
+- 
 
 
 # Goal:
