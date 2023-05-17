@@ -38,6 +38,8 @@
 - 影片中提到的關於metadata，可以使用[Pinata](https://pinata.cloud)
 
 ## • HW4 https://youtu.be/ddDaVrMpuLM
+><img width="500" alt="截圖 2023-05-17 下午8 48 01" src="https://github.com/GavinLiao89/SAD_40871228H/assets/104251978/7c211a8b-3d8b-46d8-8905-ae2bf2652715">   <img width="500" alt="截圖 2023-05-17 下午9 05 53" src="https://github.com/GavinLiao89/SAD_40871228H/assets/104251978/2f1d036a-fba5-4d69-b548-3a19aeedef14">
+
 - 使用工具 : Alchemy, Pinata, Hardhat, React, Node.js => on Goerli testnet
 - 實作目的 : 了解並熟悉前端與後端(ex. solidity合約)的連結方式
 - 實作後目標 : 改成上Sepolia testnet測試，並將原先erc721改良成erc1155
