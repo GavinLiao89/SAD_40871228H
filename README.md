@@ -34,11 +34,11 @@
 - Part1 : https://youtu.be/_UWJfxi32Ks
 - Part2 : https://youtu.be/JSqBXT7p8bs
 - Figma 專題架構圖：
-<img width="878" alt="截圖 2023-04-25 上午1 03 20" src="https://user-images.githubusercontent.com/104251978/234066332-b6dda9cc-02b9-48bb-a896-c005faea930b.png"><br>
+><img width="600" alt="截圖 2023-05-17 下午5 33 35" src="https://github.com/GavinLiao89/SAD_40871228H/assets/104251978/5d5153fd-c400-431b-97d3-7a361982aa9f"><br>
 - 影片中提到的關於metadata，可以使用[Pinata](https://pinata.cloud)
 
 ## • HW4
-- 使用工具 : Alchemy, Pinata, Hardhat, Node.js => on Goerli testnet
+- 使用工具 : Alchemy, Pinata, Hardhat, React, Node.js => on Goerli testnet
 - 實作目的 : 了解並熟悉前端與後端(ex. solidity合約)的連結方式
 - 實作後目標 : 改成上Sepolia testnet測試，並將原先erc721改良成erc1155
 
