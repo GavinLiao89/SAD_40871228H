@@ -53,4 +53,4 @@
 
 
 # Goal:
-1. 實作一個線上marketplace，模擬將現今web2的線上課程平台，轉為以web3的方式進行。主要使用hardhat框架，ERC1155智能合約，並在Sepolia Testnet測試。
+- 實作一個線上marketplace，模擬將現今web2的線上課程平台，轉為以web3的方式進行。主要使用hardhat框架，ERC1155智能合約，並在Sepolia Testnet測試。
