@@ -53,5 +53,4 @@
 
 
 # Goal:
-1. 復刻一個不錯的project
-2. 學習別人的服務，自己再更進階創造出自己的想法
+1. 實作一個線上marketplace，模擬將現今web2的線上課程平台，轉為以web3的方式進行。主要使用hardhat框架，ERC1155智能合約，並在Sepolia Testnet測試。
