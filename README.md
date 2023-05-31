@@ -49,6 +49,9 @@
 ><img width="500" alt="截圖 2023-05-24 上午12 37 47" src="https://github.com/GavinLiao89/SAD_40871228H/assets/104251978/fe94d8a4-f15c-4610-966d-e517c8c986a7">
 ><img width="425" alt="截圖 2023-05-24 上午1 30 01" src="https://github.com/GavinLiao89/SAD_40871228H/assets/104251978/75f007da-8f7e-4351-9888-94cf04d05b25">
 
+- (更新)已成功實作將後端ERC-721合約換成ERC-1155版本合約
+- (待解決)前端連結問題
+
 
 
 
