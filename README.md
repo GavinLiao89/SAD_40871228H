@@ -57,6 +57,9 @@
 ><img width="1369" alt="截圖 2023-06-05 下午6 25 42" src="https://github.com/GavinLiao89/SAD_40871228H/assets/104251978/294a7ea6-6457-4639-93d8-5e6eb19a9dae">
 - 目前面臨問題(src/NFTMarketplace.sol)：
 ><img width="1320" alt="截圖 2023-06-05 下午6 25 52" src="https://github.com/GavinLiao89/SAD_40871228H/assets/104251978/e061aa78-939e-4497-8cb0-f2579d0cbeef">
+- 補上 ERC-1155 mint NFT 到 Sepolia Testnet的[證明](https://sepolia.etherscan.io/tx/0x06fc132f0574845bc56ccf8e4d34a9159103123a13d7d3f67e97773d0cc4856f)
+><img width="1428" alt="截圖 2023-06-05 下午11 21 37" src="https://github.com/GavinLiao89/SAD_40871228H/assets/104251978/312871c9-8f1e-4874-bad2-01272b117564">
+
 
 
 
