@@ -42,7 +42,7 @@
 
 - 使用工具 : Alchemy, Pinata, Hardhat, React, Node.js => on Goerli testnet
 - 實作目的 : 了解並熟悉前端與後端(ex. solidity合約)的連結方式
-- 實作後目標 : 改成上Sepolia testnet測試，並將原先erc721改良成erc1155
+- 實作後目標 : 改成上Sepolia testnet測試，並將原先erc721改良成erc1155([implement erc1155Received function](https://forum.moralis.io/t/how-to-implement-erc1155received-function/5492))
 - (更新)已成功將Testnet轉換成Sepolia Testnet，以下附上截圖以及說明([官方部分教學](https://docs.alchemy.com/docs/how-to-deploy-a-smart-contract-to-the-sepolia-testnet))：
 ><img width="500" alt="截圖 2023-05-24 上午12 36 22" src="https://github.com/GavinLiao89/SAD_40871228H/assets/104251978/0de5641f-3b8e-42ce-9d69-c6c04230f021">
 ><img width="500" alt="截圖 2023-05-24 上午12 36 33" src="https://github.com/GavinLiao89/SAD_40871228H/assets/104251978/3ee7a159-ad04-4cb5-856e-9dfcb15a8d2a">
