@@ -50,7 +50,14 @@
 ><img width="425" alt="截圖 2023-05-24 上午1 30 01" src="https://github.com/GavinLiao89/SAD_40871228H/assets/104251978/75f007da-8f7e-4351-9888-94cf04d05b25">
 
 - (更新)已成功實作將後端ERC-721合約換成ERC-1155版本合約([transfer to non ERC1155Receiver implementer](https://forum.moralis.io/t/how-to-implement-erc1155received-function/5492))
-- (待解決)前端連結問題
+
+
+## • Final Presentation https://youtu.be/7q5MOB5BV1c
+- 最終Figma流程圖：
+><img width="1369" alt="截圖 2023-06-05 下午6 25 42" src="https://github.com/GavinLiao89/SAD_40871228H/assets/104251978/294a7ea6-6457-4639-93d8-5e6eb19a9dae">
+- 目前面臨問題(src/NFTMarketplace.sol)：
+><img width="1320" alt="截圖 2023-06-05 下午6 25 52" src="https://github.com/GavinLiao89/SAD_40871228H/assets/104251978/e061aa78-939e-4497-8cb0-f2579d0cbeef">
+
 
 
 
