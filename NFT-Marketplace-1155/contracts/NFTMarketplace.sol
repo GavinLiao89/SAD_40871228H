@@ -4,6 +4,7 @@ pragma solidity ^0.8.0;
 import "hardhat/console.sol";
 import "@openzeppelin/contracts/utils/Counters.sol";
 import "@openzeppelin/contracts/token/ERC1155/ERC1155.sol";
+import "@openzeppelin/contracts/utils/Strings.sol";
 
 //import "@openzeppelin/contracts/access/Ownable.sol";
 
@@ -40,6 +41,30 @@ contract NFTMarketplace is ERC1155{
     //This mapping maps tokenId to token info and is helpful when retrieving details about a tokenId
     mapping(uint256 => ListedToken) private idToListedToken;
 
+	// mapping(address => mapping(address => bool)) private _operatorApprovals;
+
+	// function _setApprovalForAll(
+	// 	address owner,
+	// 	address operator,
+	// 	bool approved
+	// ) internal virtual override {
+	// 	require(owner != operator, "ERC1155: setting approval status for self");
+	// 	_operatorApprovals[owner][operator] = approved;
+	// 	emit ApprovalForAll(owner, operator, approved);
+	// }
+
+	mapping (uint256 => string) private _uris;
+    
+    function uri(uint256 tokenId) override public view returns (string memory) {
+        return(_uris[tokenId]);
+    }
+    
+    function setTokenUri(string memory uri) public {
+		// require(owner == msg.sender, "Only owner can update listing price");
+        // require(bytes(_uris[tokenId]).length == 0, "Cannot set uri twice"); 
+        _uris[_tokenIds.current()] = uri; 
+    }
+
     constructor() ERC1155("NFTMarketplace") {
         owner = payable(msg.sender);
     }
@@ -74,6 +99,8 @@ contract NFTMarketplace is ERC1155{
         _mint(msg.sender, newTokenId, 1, "");
 
         _setURI(tokenURI);
+
+		setTokenUri(tokenURI);
 
         createListedToken(newTokenId, price);
 
@@ -160,8 +187,8 @@ contract NFTMarketplace is ERC1155{
         idToListedToken[tokenId].seller = payable(msg.sender);
         _itemsSold.increment();
 
-        safeTransferFrom(address(this), msg.sender, tokenId, 1, "");
         setApprovalForAll(address(this), true);
+        safeTransferFrom(address(this), msg.sender, tokenId, 1, "");
 
         payable(owner).transfer(listPrice);
         seller.transfer(msg.value);
